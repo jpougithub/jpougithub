@@ -1,4 +1,4 @@
-### Olá amigoss, meu nome é joão, estou fazendo curso de informática, que abrange temas como banco de dados, JS e redes de computadores. 🤓
+### Olá amigos, meu nome é joão, estou fazendo curso de informática, que abrange temas como banco de dados, JS e redes de computadores. 🤓
 
 <!--
 **jpougithub/jpougithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
